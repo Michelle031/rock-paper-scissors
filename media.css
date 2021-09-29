@@ -1,0 +1,28 @@
+@media (max-width: 700px) {
+  header {
+    width: 90%;
+  }
+  .btun {
+    width: 20%;
+    float: none;
+    margin: 10px 40%;
+  }
+  .board {
+    width: 100%;
+  }
+  .picks {
+    width: 90%;
+  }
+  .message h2 {
+    font-size: 2rem;
+  }
+  .rules {
+    width: 70%;
+  }
+  .p {
+    left: 10%;
+  }
+  .s {
+    left: 65%;
+  }
+}
