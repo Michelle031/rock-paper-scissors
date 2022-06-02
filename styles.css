@@ -27,6 +27,10 @@
   margin: 0;
   padding: 0;
 }
+body {
+  height: 100%;
+
+}
 .container {
   background: var(--background) no-repeat;
   padding: 20px 0;
@@ -234,6 +238,9 @@ header {
 #scissors {
   top: 15px;
   left: 15px;
+}
+.triangle {
+  z-index:-2;
 }
 .envelope {
     display: flex;
