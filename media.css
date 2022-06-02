@@ -24,7 +24,7 @@
   }
   .message {
     align-self: flex-end;
-    width: auto;
+    width: 180px;
   }
   .message h2 {
     font-size: 2rem;
