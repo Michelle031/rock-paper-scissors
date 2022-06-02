@@ -17,7 +17,7 @@
     width: 90%;
     height: 300px;
     justify-content: space-around;
-    padding: 0 10px;
+    padding: 0 5px;
   }
   .envelope {
     align-self: flex-start;
